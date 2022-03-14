@@ -1,0 +1,5 @@
+C:\Users\bmile\source\repos\buildtree\obj\Debug\netcoreapp3.1\buildtree.csproj.AssemblyReference.cache
+C:\Users\bmile\source\repos\buildtree\obj\Debug\netcoreapp3.1\buildtree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmile\source\repos\buildtree\obj\Debug\netcoreapp3.1\buildtree.AssemblyInfoInputs.cache
+C:\Users\bmile\source\repos\buildtree\obj\Debug\netcoreapp3.1\buildtree.AssemblyInfo.cs
+C:\Users\bmile\source\repos\buildtree\obj\Debug\netcoreapp3.1\buildtree.csproj.CoreCompileInputs.cache
